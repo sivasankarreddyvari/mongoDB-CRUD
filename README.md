@@ -1,2 +1,2 @@
 # mongoDB-CRUD
-This repository contains CRUD operations with mongoDB
+This repository contains mongoDB CRUD operations with Python
