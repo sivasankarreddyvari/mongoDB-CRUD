@@ -73,23 +73,23 @@ Step5: MongoDB CRUD Operations with sample data:
 
   ![alt text](Outputs/pic14.png "Description goes here")
   
-    5.3.2. Update multiple documents from patients collection
+   5.3.2. Update multiple documents from patients collection
     
-    ![alt text](Outputs/pic15.png "Description goes here")
+   ![alt text](Outputs/pic15.png "Description goes here")
     
-    Output from mongoDB atlas:
+   Output from mongoDB atlas:
   
-    ![alt text](Outputs/pic16.png "Description goes here")
+   ![alt text](Outputs/pic16.png "Description goes here")
     
-    5.4. Delete documents from patients collection
+   5.4. Delete documents from patients collection
   5.4.1. Delete single document from patients collection
   Code executing from python:
 
-    ![alt text](Outputs/pic17.png "Description goes here")
+  ![alt text](Outputs/pic17.png "Description goes here")
     
-      5.4.2. Delete multiple document from patients collection
+  5.4.2. Delete multiple document from patients collection
       
-      ![alt text](Outputs/pic18.png "Description goes here")
+  ![alt text](Outputs/pic18.png "Description goes here")
 
 ![alt text](Outputs/pic19.png "Description goes here")
 
